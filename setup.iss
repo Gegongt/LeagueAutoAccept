@@ -1,6 +1,6 @@
 [Setup]
 AppName=League AutoAccept
-AppVersion=1.0
+AppVersion=1.0.0
 AppVerName=League AutoAccept
 DefaultDirName={autopf}\LeagueAutoAccept
 DefaultGroupName=League AutoAccept

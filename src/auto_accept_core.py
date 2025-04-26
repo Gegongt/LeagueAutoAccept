@@ -1,3 +1,5 @@
+__version__ = "1.0.0"
+
 import requests
 import urllib3
 import base64
