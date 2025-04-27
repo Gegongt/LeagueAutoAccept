@@ -9,6 +9,7 @@
 League AutoAccept is a lightweight tool that monitors the League of Legends client locally via the **LCU API** and automatically accepts queues.
 
 **Features:**
+
 - Auto-accept as soon as queue pops
 - Fully local, no servers, no data sharing
 - Automatic start at system boot (Windows Task Scheduler)
@@ -81,4 +82,3 @@ LeagueAutoAccept/
 ---
 
 # GLHF and good luck on the Rift! 🚀
-
