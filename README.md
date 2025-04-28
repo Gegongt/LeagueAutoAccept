@@ -43,15 +43,15 @@ League AutoAccept is a lightweight tool that monitors the League of Legends clie
 
 ```plaintext
 LeagueAutoAccept/
-├── src/                  # Python source code
+├── src/
 │   ├── auto_accept_core.py
 │   ├── auto_accept.py
 │   ├── auto_accept_task.py
 │   └── auto_accept_watcher.py
-├── installer/            # Installer scripts
+├── installer/
 │   └── create_task.ps1
-├── setup.iss      # Inno Setup script for installer
-└── README.md             # This file
+├── setup.iss
+└── README.md
 ```
 
 ---
