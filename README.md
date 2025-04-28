@@ -50,7 +50,7 @@ LeagueAutoAccept/
 │   └── auto_accept_watcher.py
 ├── installer/            # Installer scripts
 │   └── create_task.ps1
-├── setup_script.iss      # Inno Setup script for installer
+├── setup.iss      # Inno Setup script for installer
 └── README.md             # This file
 ```
 
